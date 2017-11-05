@@ -21,5 +21,6 @@ The Saurus(시소러스) - 도서관리 및 오디오북 관리 앱
 - Recyclerview, Cardview를 이용하여 앱 구조를 구성하였고, MediaPlayer를 이용하여 오디오 재생하는 기능을 구현했습니다.
 
 
+
 ![Alt text](https://user-images.githubusercontent.com/28954046/32413047-571e232e-c24c-11e7-8ecb-d2ac89678857.png)
 ![ScreenShot](https://user-images.githubusercontent.com/28954046/32413053-60f6407a-c24c-11e7-882c-04ecb6b0139f.png)
