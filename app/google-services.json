@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991231734107",
+    "firebase_url": "https://thesaurus-6b946.firebaseio.com",
+    "project_id": "thesaurus-6b946",
+    "storage_bucket": "thesaurus-6b946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991231734107:android:9ca07170aa3217f0",
+        "android_client_info": {
+          "package_name": "com.thesaurus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991231734107-t7k2roemqtouqa9lgbbns7dsfbmhcis8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesaurus",
+            "certificate_hash": "7b432111f3ffe16a11432b98a457efdddf078daf"
+          }
+        },
+        {
+          "client_id": "991231734107-0rf05npau4rk2he6bq627s2jvbf2dsqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_itq_i1SVEiwSdONFdDWVHLk_f3Wo6so"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991231734107-0rf05npau4rk2he6bq627s2jvbf2dsqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

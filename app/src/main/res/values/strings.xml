@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">The Saurus</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">검색</string>
+
+    <string name="error_message">
+        오류가 일어났습니다. 잠시 뒤에 하세요.
+    </string>
+
+    <string name="audioBook">오디오북</string>
+    <string name="bookList">도서</string>
+
+
+    <string name="new_book">신간도서</string>
+    <string name="more_book">더보기</string>
+
+    <string name="book_description">책 소개</string>
+
+    <string name="tag">태그</string>
+    <string name="hint_search_text">검색할 단어를 입력하세요.</string>
+    <string name="have_book_status">소장여부</string>
+    <string name="have_book">소장중</string>
+    <string name="audio_book">오디오북</string>
+    <string name="read_book_status">읽은 책</string>
+    <string name="want_to_read">읽고싶어요</string>
+    <string name="read_book">읽었어요</string>
+    <string name="category_status">카테고리</string>
+    <string name="novel">소설</string>
+    <string name="poem_assay">시/에세이</string>
+    <string name="liberal_arts">인문</string>
+    <string name="homelife">가정/생활</string>
+    <string name="cook">요리</string>
+    <string name="health">건강</string>
+    <string name="hobby_sports">취미/스포츠</string>
+    <string name="economy_management">경제/경영</string>
+    <string name="rbtn_all">전체</string>
+    <string name="rbtn_title">제목</string>
+    <string name="rbtn_author">저자</string>
+    <string name="rbtn_popular">판매량순</string>
+    <string name="rbtn_accu">정확도순</string>
+    <string name="rbtn_date">발행일순</string>
+</resources>
